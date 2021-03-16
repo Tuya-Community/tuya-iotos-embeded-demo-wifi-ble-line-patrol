@@ -22,7 +22,7 @@
 
   ```bash
   $ cd apps
-  $ git clone https://registry.code.tuya-inc.top/hardware_developer/tuya-iotos-embeded-demo-wifi-ble-line-patrol
+  $ git clone https://github.com/Tuya-Community/tuya-iotos-embeded-demo-wifi-ble-line-patrol.git
   ```
   
 + 在SDK根目录下执行以下命令开始编译：
