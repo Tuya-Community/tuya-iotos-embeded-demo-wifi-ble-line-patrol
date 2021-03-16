@@ -22,7 +22,7 @@ Implemented functions.
 
   ```bash
   $ cd apps
-  $ git clone https://registry.code.tuya-inc.top/hardware_developer/tuya-iotos-embeded-demo-wifi-ble-line-patrol
+  $ git clone https://github.com/Tuya-Community/tuya-iotos-embeded-demo-wifi-ble-line-patrol.git
   ```
   
 + Execute the following command in the SDK root directory to start compiling.
