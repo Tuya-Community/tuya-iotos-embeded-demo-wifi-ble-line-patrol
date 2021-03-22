@@ -74,8 +74,6 @@
 
 + 调用 tuya_iot_reg_get_wf_nw_stat_cb() 接口注册设备网络状态回调函数。
 
-+ 调用应用层初始化函数 air_box_device_init()
-
  
 
 ### DP点相关
