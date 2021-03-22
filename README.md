@@ -74,8 +74,6 @@ Important functions: device_init()
 
 + Calling the tuya_iot_reg_get_wf_nw_stat_cb() interface to register the device network status callback functions.
 
-+ Call the application layer initialization function air_box_device_init()
-
  
 
 ### DP point related
